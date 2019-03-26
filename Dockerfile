@@ -1,3 +1,8 @@
+# need to do impementation like this:
+https://github.com/brainsam/pgbouncer/blob/master/Dockerfile
+
+use Docke file from this:
+https://github.com/ganehag/docker-pgbouncer/blob/master/Dockerfile
 FROM alpine:3.5 as build_stage
 
 
